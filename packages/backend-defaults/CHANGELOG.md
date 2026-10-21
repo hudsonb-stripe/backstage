@@ -1,5 +1,12 @@
 # @backstage/backend-defaults
 
+## 0.18.2-next.0
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/cli-node@0.3.6-next.0
+
 ## 0.18.1
 
 ### Patch Changes
